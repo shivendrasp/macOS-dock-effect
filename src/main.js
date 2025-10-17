@@ -2,11 +2,11 @@ let textContainer = document.querySelector(".text-container");
 
 let spans = [];
 let icons = [
-  "/blender.png",
-  "/Discord.png",
-  "/Figma.png",
-  "/Notion.png",
-  "/slack.png",
+  "/images/blender.png",
+  "/images/Discord.png",
+  "/images/Figma.png",
+  "/images/Notion.png",
+  "/images/slack.png",
 ];
 
 let mouseX = 0;
